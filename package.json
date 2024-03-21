@@ -1,0 +1,19 @@
+{
+  "name": "projeto_login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielpires11/Projeto_Login.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielpires11/Projeto_Login/issues"
+  },
+  "homepage": "https://github.com/gabrielpires11/Projeto_Login#readme"
+}

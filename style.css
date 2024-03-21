@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+input{
+    width: 300px !important; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    margin-right: 10px;
+    margin-top: 150px;
+}
